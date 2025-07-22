@@ -27,7 +27,3 @@ Download the ABAP code from this repository.
 Import it into your SAP system.
 Execute it via the SAP GUI.
 
-
-Contributing:
-
-Contributions and improvements are welcome! Feel free to fork the repository and submit pull requests.
